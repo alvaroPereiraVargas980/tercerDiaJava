@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="760b1181-6627-49d6-9c2d-be71b76fb47e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/BigSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/compareTriples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/hackerRank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/hackerRankArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/hackerRankMatriz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/hackerRantArraySuma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/sumaArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/primerProyecto/com/example/BigSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/primerProyecto/com/example/compareTriples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/primerProyecto/com/example/hackerRank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/primerProyecto/com/example/sumaArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primerProyecto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/primerProyecto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/ArrayManipulate/hacherRankArrayManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/ArrayManipulate/hacherRankArrayManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/BigSum/hackerRantArraySuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/BigSum/hackerRantArraySuma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/CompareTriplets/hackerRankArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/CompareTriplets/hackerRankArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/diagonalDifference/hackerRankMatriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/diagonalDifference/hackerRankMatriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/pruebas/BigSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/pruebas/BigSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/pruebas/compareTriples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/pruebas/compareTriples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/pruebas/sumaArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/pruebas/sumaArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/simpleArraySum/hackerRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/simpleArraySum/hackerRank.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,31 +25,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/primerProyecto$ArrayManipulate.ic" NAME="ArrayManipulate Coverage Results" MODIFIED="1530039579285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.pruebas.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FileOutputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
+      <file leaf-file-name="hackerRankMatriz.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/diagonalDifference/hackerRankMatriz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="123" column="47" selection-start-line="123" selection-start-column="47" selection-end-line="123" selection-end-column="47" />
+            <state relative-caret-position="330">
+              <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BigSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/BigSum.java">
+      <file leaf-file-name="hackerRankArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/CompareTriplets/hackerRankArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="101">
+              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hacherRankArrayManipulation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hacherRankArrayManipulation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/ArrayManipulate/hacherRankArrayManipulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="-107">
+              <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,20 +62,86 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileWriter.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/FileWriter.java">
+      <file leaf-file-name="hackerRank.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/simpleArraySum/hackerRank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="135">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="primerProyecto.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primerProyecto.iml">
+      <file leaf-file-name="hacherRankArrayManipulationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/example/ArrayManipulate/hacherRankArrayManipulationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="315">
+              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hackerRankTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/example/simpleArraySum/hackerRankTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hackerRankArrayTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/example/CompareTriplets/hackerRankArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hackerRankMatrizTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/example/diagonalDifference/hackerRankMatrizTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayManipulate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/ArrayManipulate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="11" column="73" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sumaArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/sumaArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,6 +152,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
       </list>
     </option>
   </component>
@@ -93,7 +170,21 @@
         <option value="$PROJECT_DIR$/src/com/example/hackerRankMatriz.java" />
         <option value="$PROJECT_DIR$/src/com/example/hacherRankArrayManipulation.java" />
         <option value="$PROJECT_DIR$/src/com/example/hackerRantArraySuma.java" />
+        <option value="$PROJECT_DIR$/src/com/example/pruebas/sumaArray.java" />
+        <option value="$PROJECT_DIR$/src/com/example/pruebas/BigSum.java" />
+        <option value="$PROJECT_DIR$/src/com/example/pruebas/compareTriples.java" />
+        <option value="$PROJECT_DIR$/src/com/example/pruebas/ArrayManipulate.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/src/com/example/simpleArraySum/hackerRank.java" />
+        <option value="$PROJECT_DIR$/test/com/example/simpleArraySum/hackerRankTest.java" />
+        <option value="$PROJECT_DIR$/test/com/example/diagonalDifference/hackerRankMatrizTest.java" />
+        <option value="$PROJECT_DIR$/test/com/example/CompareTriplets/hackerRankArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/com/example/BigSum/hackerRantArraySuma.java" />
+        <option value="$PROJECT_DIR$/test/com/example/BigSum/hackerRantArraySumaTest.java" />
         <option value="$PROJECT_DIR$/src/com/example/ArrayManipulate/hacherRankArrayManipulation.java" />
+        <option value="$PROJECT_DIR$/test/com/example/ArrayManipulate/hacherRankArrayManipulationTest.java" />
+        <option value="$PROJECT_DIR$/src/com/example/diagonalDifference/hackerRankMatriz.java" />
+        <option value="$PROJECT_DIR$/src/com/example/CompareTriplets/hackerRankArray.java" />
       </list>
     </option>
   </component>
@@ -107,10 +198,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-14" />
-    <option name="y" value="38" />
-    <option name="width" value="1162" />
-    <option name="height" value="791" />
+    <option name="x" value="192" />
+    <option name="y" value="29" />
+    <option name="width" value="1033" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -118,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -170,6 +262,52 @@
               <item name="primerProyecto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="pruebas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primerProyecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primerProyecto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleArraySum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primerProyecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primerProyecto" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primerProyecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primerProyecto" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primerProyecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primerProyecto" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayManipulate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primerProyecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primerProyecto" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="CompareTriplets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primerProyecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primerProyecto" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="diagonalDifference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primerProyecto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primerProyecto" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="simpleArraySum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -177,18 +315,31 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.ArrayManipulate" />
+      <recent name="com.example.BigSum" />
+      <recent name="com.example.CompareTriplets" />
+      <recent name="com.example.diagonalDifference" />
+      <recent name="com.example.simpleArraySum" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,61 +353,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BigSum">
-    <configuration name="BigSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.BigSum" />
-      <module name="primerProyecto" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Solution" />
-      <module name="primerProyecto" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.hackerRantArraySuma">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="compareTriples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.compareTriples" />
-      <module name="primerProyecto" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="hackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.hackerRank" />
+      <option name="MAIN_CLASS_NAME" value="com.example.simpleArraySum.hackerRank" />
       <module name="primerProyecto" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.example.simpleArraySum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="sumaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.sumaArray" />
+    <configuration name="hackerRankArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.CompareTriplets.hackerRankArray" />
       <module name="primerProyecto" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.example.CompareTriplets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="hackerRankMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.diagonalDifference.hackerRankMatriz" />
+      <module name="primerProyecto" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.diagonalDifference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="hackerRantArraySuma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.BigSum.hackerRantArraySuma" />
+      <module name="primerProyecto" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.BigSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,6 +408,29 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="hacherRankArrayManipulationTest.generarRespuesta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="primerProyecto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ArrayManipulate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.ArrayManipulate" />
+      <option name="MAIN_CLASS_NAME" value="com.example.ArrayManipulate.hacherRankArrayManipulationTest" />
+      <option name="METHOD_NAME" value="generarRespuesta" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -300,19 +463,19 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="JUnit.hacherRankArrayManipulationTest.generarRespuesta" />
       <item itemvalue="Application.hackerRank" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.sumaArray" />
-      <item itemvalue="Application.compareTriples" />
-      <item itemvalue="Application.BigSum" />
+      <item itemvalue="Application.hackerRankMatriz" />
+      <item itemvalue="Application.hackerRankArray" />
+      <item itemvalue="Application.hackerRantArraySuma" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BigSum" />
-        <item itemvalue="Application.compareTriples" />
-        <item itemvalue="Application.sumaArray" />
+        <item itemvalue="Application.hackerRantArraySuma" />
+        <item itemvalue="Application.hackerRankArray" />
+        <item itemvalue="Application.hackerRankMatriz" />
         <item itemvalue="Application.hackerRank" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="JUnit.hacherRankArrayManipulationTest.generarRespuesta" />
       </list>
     </recent_temporary>
   </component>
@@ -327,44 +490,81 @@
       <option name="presentableId" value="Default" />
       <updated>1529937190978</updated>
       <workItem from="1529937192876" duration="13265000" />
-      <workItem from="1529960965417" duration="1337000" />
+      <workItem from="1529960965417" duration="2621000" />
+      <workItem from="1530018815806" duration="21933000" />
+      <workItem from="1530103673635" duration="6806000" />
+      <workItem from="1530111636055" duration="11807000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="hacherRankArrayManipulationTest_generarLimite2 - 2018.06.27 at 14h 52m 48s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generarLimite2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="hacherRankArrayManipulationTest_generateCero - 2018.06.27 at 14h 57m 52s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generateCero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="hacherRankArrayManipulationTest_generarRespuesta - 2018.06.27 at 15h 20m 39s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generarRespuesta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="hacherRankArrayManipulationTest_generarRespuesta - 2018.06.27 at 15h 25m 57s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generarRespuesta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="hacherRankArrayManipulationTest_generateCero - 2018.06.27 at 15h 26m 57s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generateCero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="hacherRankArrayManipulationTest_generarSuma - 2018.06.27 at 15h 27m 38s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generarSuma" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="hacherRankArrayManipulationTest_generarLimite2 - 2018.06.27 at 15h 28m 00s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generarLimite2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="hacherRankArrayManipulationTest_generarLimite1 - 2018.06.27 at 15h 28m 14s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generarLimite1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="hacherRankArrayManipulationTest_generarRespuesta - 2018.06.27 at 15h 29m 06s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generarRespuesta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="hacherRankArrayManipulationTest_generarRespuesta - 2018.06.27 at 15h 30m 29s.xml">
+      <configuration name="hacherRankArrayManipulationTest.generarRespuesta" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14602000" />
+    <option name="totallyTimeSpent" value="56432000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="38" width="1162" height="791" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32554746" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32041728" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30892858" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32935917" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3054863" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32935917" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23247497" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39940387" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46131387" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.22406639" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32935917" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935917" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,64 +575,103 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/example/pruebas/ArrayManipulate.java</url>
+          <line>57</line>
+          <properties class="com.example.pruebas.ArrayManipulate" method="generarRespuesta">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="26" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="System.getenv(&quot;OUTPUT_PATH&quot;)" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRank.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/diagonalDifference/hackerRankMatriz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/CompareTriplets/hackerRankArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/ArrayManipulate/hacherRankArrayManipulation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="39" />
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRankArray.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/BigSum/hackerRantArraySuma.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/simpleArraySum/hackerRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/sumaArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRantArraySuma.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/compareTriples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primerProyecto.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/ArrayManipulate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRankMatriz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/compareTriples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/BigSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRank.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRankArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRantArraySuma.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRankMatriz.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/compareTriples.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/BigSum.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
@@ -450,19 +689,8 @@
     <entry file="file://$PROJECT_DIR$/primerProyecto.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/sumaArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/primerProyecto/com/example/hackerRank.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/sumaArray.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/primerProyecto/com/example/hackerRank.class" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/FileWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -477,108 +705,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/BigSum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/BigSum.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/compareTriples.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/hacherRankArrayManipulation.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRantArraySuma.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/sumaArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRank.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRankMatriz.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRankArray.java" />
+    <entry file="file://$PROJECT_DIR$/primerProyecto.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/compareTriples.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/IntConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="375">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hacherRankArrayManipulation.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/stream/Streams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRantArraySuma.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/stream/IntPipeline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/sumaArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRankMatriz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/hackerRankArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="556" selection-start-line="556" selection-end-line="556" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="123" column="47" selection-start-line="123" selection-start-column="47" selection-end-line="123" selection-end-column="47" />
+        <state relative-caret-position="2670">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/BigSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="270">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primerProyecto.iml">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/junit/framework/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1101">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/compareTriples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/example/BigSum/hackerRantArraySumaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/BigSum/hackerRantArraySuma.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/ArrayManipulate/hacherRankArrayManipulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="-107">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/sumaArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/pruebas/ArrayManipulate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="11" column="73" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/example/simpleArraySum/hackerRankTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/example/diagonalDifference/hackerRankMatrizTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/example/CompareTriplets/hackerRankArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/example/ArrayManipulate/hacherRankArrayManipulationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/simpleArraySum/hackerRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/diagonalDifference/hackerRankMatriz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/CompareTriplets/hackerRankArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -599,7 +907,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>

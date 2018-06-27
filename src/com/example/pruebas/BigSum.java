@@ -1,4 +1,4 @@
-package com.example;
+package com.example.pruebas;
 
 import javax.swing.plaf.synth.SynthEditorPaneUI;
 

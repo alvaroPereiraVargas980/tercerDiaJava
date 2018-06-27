@@ -1,4 +1,4 @@
-package com.example;
+package com.example.BigSum;
 
 import java.io.*;
 import java.math.*;
@@ -7,35 +7,26 @@ import java.util.*;
 import java.util.regex.*;
 public class hackerRantArraySuma {
 
-    /*
-     * Complete the simpleArraySum function below.
-     */
+
     static int simpleArraySum(int[] ar) {
 
         return Arrays.stream(ar).sum();
     }
 
-    private static final Scanner scanner = new Scanner(System.in);
 
-    public static void main(String[] args) throws IOException {
-        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+    public static void main(String[] args)  {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("ingrese el largo del array");
+        int numero=sc.nextInt();
+        int array[]= new int[numero];
+        for(int i =0; i<numero;i++) {
+                System.out.print("ingrese los datos del array");
+                array[i] = sc.nextInt();
 
-        int arCount = Integer.parseInt(scanner.nextLine().trim());
 
-        int[] ar = new int[arCount];
-
-        String[] arItems = scanner.nextLine().split(" ");
-
-        for (int arItr = 0; arItr < arCount; arItr++) {
-            int arItem = Integer.parseInt(arItems[arItr].trim());
-            ar[arItr] = arItem;
         }
-
-        int result = simpleArraySum(ar);
-
-        bufferedWriter.write(String.valueOf(result));
-        bufferedWriter.newLine();
-
-        bufferedWriter.close();
+        System.out.print(simpleArraySum(array));
     }
-}
+
+    }
+
